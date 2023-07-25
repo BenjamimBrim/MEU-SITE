@@ -1,0 +1,34 @@
+
+    h1 {
+      color: rgb(252, 252, 252);
+    }
+
+    h3 {
+      color: crimson;
+    }
+
+    .grid{
+        display:flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+    }
+  
+    p,h2{
+    text-align:center;
+    color: blue;
+    }
+
+     .footer{
+        display:flex;
+        justify-content: center;
+     }
+
+     .header{
+        background-color:darkred;
+        display:flex;
+        justify-content: space-between;
+     }
+
+     .menu{
+        color:aliceblue;
+     }
